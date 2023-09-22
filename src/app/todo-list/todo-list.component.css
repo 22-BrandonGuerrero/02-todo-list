@@ -20,6 +20,11 @@
   .btn-delete-task:hover {
     color: #dc3545;
   }
+
+  #btn-search-task {
+    width: 100px; /* Puedes ajustar el valor según tus preferencias */
+    margin-left: 250px; /* Ajusta el valor para la separación horizontal */
+  }
   
   .list-group-item:hover .btn-delete-task {
     display: block;
